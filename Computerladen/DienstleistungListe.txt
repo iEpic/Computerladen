@@ -1,4 +1,4 @@
-produktID,typ,name,rabatt,beschreibung,zeitaufwand
+produktID;typ;name;rabatt;beschreibung;zeitaufwand
 7;Dienstleistung;BIOS Aktualisierung;0;Für die beste Kompatibilität und Stabilität aktualisieren wir die Plattform auf den neuesten Stand.;1
 8;Dienstleistung;Prozessormontage Service;0;Die CPU ist eine empfindliche Komponente. Auf Wunsch setzen wir sie fachmännisch in den Sockel ein.;1
 9;Dienstleistung;Prozessor- Kühler- & Arbeitsspeicher-Montageservice;0;Fertig aufgebaute Plattform mit fachmännisch eingesetzter CPU und RAM sowie sicherem Aufbau des Kühlers.;1

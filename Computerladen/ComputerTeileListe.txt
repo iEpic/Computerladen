@@ -1,4 +1,4 @@
-produktID,typ,name,kategorie,preis,rabatt,beschreibung,verfügbarkeit,ean
+produktID;typ;name;kategorie;preis;rabatt;beschreibung;verfügbarkeit;ean
 1;Computerteil;8GB MSI GeForce RTX 2060 SUPER GAMING X DDR6;Grafikkarten;432;0;MSI V375-214R. Grafikprozessorenfamilie: NVIDIA, GPU: GeForce RTX 2060 SUPER. Separater Grafik-Adapterspeicher: 8 GB, Grafikkartenspeichertyp: GDDR6, Breite der Speicherschnittstelle: 256 Bit. Maximale Auflösung: 7680 x 4320 Pixel.;true;4719072658694
 2;Computerteil;16GB G.Skill RipJaws V schwarz DDR4-3200 DIMM CL16 Dual Kit;Arbeitsspeicher;59;0;Das 16GB G.Skill RipJaws V DDR4 Dual Kit ist die perfekte Ergänzung für moderne High - End Gaming - Rechner, die beiden Dual - Channel Module werden nur mit hochwertigen Komponenten produziert und unter Extrembedingungen getestet.;true;4719692004970
 3;Computerteil;MSI B450 Gaming AMD B450 So.AM4 Dual Channel DDR4 ATX;Mainboards;99;0;MSI B450 GAMING PLUS MAX. Prozessorhersteller: AMD, Prozessorsockel: Socket AM4, Kompatible Prozessoren: AMD Ryzen.;true;4719072658557

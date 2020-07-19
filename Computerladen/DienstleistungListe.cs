@@ -12,7 +12,7 @@ namespace Computerladen
         {
             try
             {
-                List<Dienstleistung> dienstleistungen = File.ReadAllLines("../../../DienstleistungListe.csv")
+                List<Dienstleistung> dienstleistungen = File.ReadAllLines("../../../DienstleistungListe.txt")
                                                             .Skip(1)
                                                             .Select(line => new Dienstleistung(line))
                                                             .ToList();
