@@ -1,0 +1,6 @@
+produktID,typ,name,rabatt,beschreibung,zeitaufwand
+7;Dienstleistung;BIOS Aktualisierung;0;Für die beste Kompatibilität und Stabilität aktualisieren wir die Plattform auf den neuesten Stand.;1
+8;Dienstleistung;Prozessormontage Service;0;Die CPU ist eine empfindliche Komponente. Auf Wunsch setzen wir sie fachmännisch in den Sockel ein.;1
+9;Dienstleistung;Prozessor- Kühler- & Arbeitsspeicher-Montageservice;0;Fertig aufgebaute Plattform mit fachmännisch eingesetzter CPU und RAM sowie sicherem Aufbau des Kühlers.;1
+10;Dienstleistung;Installation Betriebssystem - Windows 10;0;Das Betriebssystem wird für Sie installiert und kann sofort von Ihnen verwendet werden.;1
+11;Dienstleistung;Montage-, und Funktionstest-Service;0;Nutzen Sie unser professionelles Know-how: Wir liefern Ihren Wunsch-PC komplett zusammengebaut und ausführlich getestet.;4

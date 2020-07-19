@@ -11,7 +11,7 @@ namespace Computerladen
         {
             try
             {
-                List<Computerteil> computerteile = File.ReadAllLines("ComputerTeileListe.csv")
+                List<Computerteil> computerteile = File.ReadAllLines("../../../ComputerTeileListe.csv")
                                                             .Skip(1)
                                                             .Select(line => new Computerteil(line))
                                                             .ToList();
